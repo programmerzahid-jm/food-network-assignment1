@@ -16,23 +16,21 @@ span{
 .banner{
     display: flex;
 }
-
 .half-width{
     width: 40%;
     padding-left: 10px;
     margin: 60px;
 }
-
 .half-width img{
     width: 100%;
 }
-
 .link-button{
     text-decoration: none;
     background-color: orange;
     padding: 10px 15px;
     border-radius: 10px;
 }
+
 
 .banner-with{
     display: flex;
@@ -41,23 +39,19 @@ span{
     background-repeat: no-repeat;
     height: 450px;
 }
-
 .second-image img{
     width: 70%;
     padding-left: 25%;
     background-size: cover;
 }
-
 .second-image{
     width: 40%;
     padding-right: 15%;
     margin: 60px;
 }
-
 #self{
     color: gray;
 }
-
 #contact-id{
     text-decoration: none;
     background-color: orange;
@@ -80,7 +74,6 @@ span{
     display: flex;
     justify-content: space-around;
 }
-
 .recipie1{
     width: 300px;
     border: none solid 5px;
@@ -88,53 +81,9 @@ span{
     padding: 20px;
     box-shadow: 10px 15px 20px grey;
 }
-
 .image-width{
     width: 100%;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.follower{
-    display: flex;
-}
-.content1{
-    width: 50%;
-    margin-left: 100px;
-}
-.content2{
-    width: 50%;
-    margin: 10px;
-}
-.content3{
-    width: 50%;
-    margin: 10px;
-}
-
-
-
-
 
 
 footer{
