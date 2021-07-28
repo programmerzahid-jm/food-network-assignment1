@@ -68,6 +68,9 @@ span{
 .about-recipi{
     text-align: center;
 }
+#recepie{
+    color: gray;
+}
 
 .recipie-title{
     display: flex;
