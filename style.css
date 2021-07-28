@@ -19,7 +19,8 @@ span{
 
 .half-width{
     width: 40%;
-    padding-left: 5%;
+    padding-left: 10px;
+    margin: 60px;
 }
 
 .half-width img{
@@ -36,18 +37,21 @@ span{
 .banner-with{
     display: flex;
     background-image: url(image/shapes/7.png);
+    background-size: cover;
     background-repeat: no-repeat;
     height: 450px;
 }
 
 .second-image img{
-    width: 60%;
+    width: 70%;
     padding-left: 25%;
+    background-size: cover;
 }
 
 .second-image{
     width: 40%;
     padding-right: 15%;
+    margin: 60px;
 }
 
 #self{
@@ -63,4 +67,64 @@ span{
 
 .about-recipi{
     text-align: center;
+}
+
+.recipie-title{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.follower{
+    display: flex;
+}
+.content1{
+    width: 50%;
+    margin-left: 100px;
+}
+.content2{
+    width: 50%;
+    margin: 10px;
+}
+.content3{
+    width: 50%;
+    margin: 10px;
+}
+
+
+
+
+
+
+footer{
+    background-color: black;
+    height: 100px;
+}
+.font{
+    text-align: center;
+    color: white;
+}
+#span-color{
+    color: gray;
 }
