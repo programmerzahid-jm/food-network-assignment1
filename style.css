@@ -1,1 +1,34 @@
-font-family: 'Noto Serif JP', serif;
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    font-size: 50px;
+    line-height: 35px;
+}
+
+span{
+    color: orange;
+}
+
+.banner{
+    display: flex;
+}
+
+.half-width{
+    width: 40%;
+    padding-left: 5%;
+}
+
+.half-width img{
+    width: 90%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
